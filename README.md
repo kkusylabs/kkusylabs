@@ -33,7 +33,7 @@ Reimplementation of a Node.js project in Java using Spring Boot, built to explor
 
 ## Looking For
 
-Software development roles focused on Java backend systems, enterprise applications, REST APIs, and legacy modernization. I prefer hands-on individual contributor work.
+Software development roles focused on Java backend systems, enterprise applications, REST APIs, and legacy modernization.
 
 ## Contact
 [Kevin Kusy – LinkedIn](https://www.linkedin.com/in/kevin-kusy-287a66407/)
