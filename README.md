@@ -1,39 +1,63 @@
-# Hi, I'm Kevin Kusy,
+# Hi, I'm Kevin Kusy
 
-A Java developer building backend and desktop applications with Spring Boot and Eclipse RCP. I’m currently building demo projects with an emphasis on clean CRUD design, data persistence, and security. I’m seeking software development opportunities focused on Java, backend systems, and enterprise applications.
+Java developer focused on backend systems, enterprise application architecture, and desktop client integration.
+
+Currently building full-stack Java applications using Spring Boot, PostgreSQL, and Eclipse RCP, with an emphasis on:
+
+- REST API design
+- authorization and business rules
+- capability-driven APIs
+- async UI workflows
+- enterprise CRUD architecture
+- modernization patterns
 
 ## Tech Stack
 
-**Languages:** Java, SQL  
-**Backend:** Spring Boot, REST APIs, JDBC, JPA, Hibernate  
+**Languages:** Java, SQL, TypeScript (learning)  
+**Backend:** Spring Boot, REST APIs, JPA, Hibernate  
 **Databases:** PostgreSQL, H2, MongoDB  
 **Testing:** JUnit, Mockito  
 **Tools:** Git, Maven, Docker  
-**Desktop UI:** Eclipse RCP, SWT, JFace
+**Desktop UI:** Eclipse RCP, SWT, JFace  
+**Frontend Exploration:** React, TypeScript
 
 ## Featured Projects
 
-### [Spring Boot Users Admin Demo](https://github.com/kkusylabs/user-admin-system)
+### [User Administration System](https://github.com/kkusylabs/user-admin-system)
 
-Backend service for managing users and departments, featuring REST endpoints, PostgreSQL persistence, and role-based business logic.
+Full-stack enterprise-style administration system featuring:
 
-**Highlights:** REST API design, data validation, authorization rules, and layered architecture.
+- Spring Boot REST backend
+- JWT authentication
+- role and department authorization
+- capability-driven APIs
+- PATCH-style updates
+- PostgreSQL persistence
+- Eclipse RCP desktop client
+- filtering, pagination, and async UI workflows
+
+Focused on enterprise architecture patterns, centralized authorization, and modernization-oriented API design.
 
 ### [Whispers – Spring Boot Conversion](https://github.com/kkusylabs/whispers)
 
-Reimplementation of a Node.js project in Java using Spring Boot, built to explore backend architecture and persistence design.
-
-**Highlights:** MVC structure, data persistence patterns, and framework-based application design.
+Reimplementation of a Node.js project in Java using Spring Boot to explore backend architecture, persistence design, and framework-driven application structure.
 
 ## Currently Working On
 
-- Finalizing the Spring Boot backend for user and department administration, improving test coverage and documentation
-- Refining business rules, validation, and REST API design
-- Planning a desktop client in Eclipse RCP, with possible Vue exploration
+- Refining async workflow coordination in the Eclipse RCP client
+- Improving client-side validation and API error handling
+- Exploring React + TypeScript integration against existing REST APIs
 
 ## Looking For
 
-Software development roles focused on Java backend systems, enterprise applications, REST APIs, and legacy modernization. I prefer hands-on individual contributor work.
+Software development opportunities focused on:
+
+- Java backend systems
+- enterprise applications
+- REST APIs
+- modernization initiatives
+- desktop/web integration
 
 ## Contact
+
 [Kevin Kusy – LinkedIn](https://www.linkedin.com/in/kevin-kusy-287a66407/)
