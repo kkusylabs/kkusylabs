@@ -1,44 +1,37 @@
-# Hi, I'm Kevin Kusy
+# Hi, I'm Kevin Kusy 👋
 
-Java developer with 25+ years of professional experience.
+Java developer with 25+ years of professional experience, specializing in Eclipse RCP desktop applications and now 
+expanding into modern Java backend development.
 
-Most of my career has been spent developing and maintaining Java desktop applications using Eclipse RCP, SWT, and JFace.
+## About me
 
-I'm currently expanding my skills in modern Java backend development through hands-on projects.
+I've spent most of my career building and maintaining complex Java desktop applications with Eclipse RCP, SWT, and JFace. 
+Today, I'm leveraging that deep Java expertise to develop modern backend systems, expanding my skills through hands-on, 
+end-to-end projects.
 
-## Background
-- Eclipse RCP
-- SWT
-- JFace
-- Swing
-- Maven
-- Git
+## 🛠️ Skills
 
-## Current focus
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Docker
-- AWS
+**Experienced with:** Java · Eclipse RCP · SWT · JFace · Swing · Maven · Git
 
-## Featured Projects
+**Currently building with:** Spring Boot · REST APIs · PostgreSQL · Docker · AWS
+
+## 🚀 Featured Projects
 
 ### [User Administration System](https://github.com/kkusylabs/user-admin-system)
 
-A Spring Boot application with an Eclipse RCP desktop client built to learn modern Java backend development while drawing on my desktop application experience.
+A full-stack application combining a Spring Boot REST backend with an Eclipse RCP desktop client, bridging my experience 
+in desktop application development with modern backend architecture and API design.
 
-- Spring Boot REST API
-- JWT authentication
-- role-based authorization
-- PostgreSQL persistence
+- JWT authentication & role-based authorization
+- PostgreSQL persistence with filtering and pagination
 - PATCH updates
-- filtering and pagination
-- Eclipse RCP desktop client
+- Eclipse RCP desktop client consuming the REST API
 
 ### [Whispers – Spring Boot Conversion](https://github.com/kkusylabs/whispers)
 
-A Java/Spring Boot rewrite of an existing Node.js application created to learn Spring Boot, persistence, and backend application structure.
+A complete rewrite of an existing Node.js application in Java and Spring Boot, exploring JPA persistence, REST APIs, and 
+modern backend application architecture.
 
 ## Contact
 
-[Kevin Kusy – LinkedIn](https://www.linkedin.com/in/kevin-kusy-287a66407/)
+💬 Always happy to connect with other Java developers — find me on [LinkedIn](https://www.linkedin.com/in/kevin-kusy-287a66407/)
